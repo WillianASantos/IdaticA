@@ -5,6 +5,10 @@
 
 A IdáticA é uma ferramenta simples e intuitiva que te ajuda a encontrar o tema perfeito para sua próxima aula. Basta digitar uma palavra-chave e pronto! A mágica da programação te apresenta uma lista de sugestões personalizadas e interessantes.
 
+###**Público alvo**
+Professores do ensino fundamental, médio e superior não precisam mais quebrar a cabeça revisitando suas anotações em cadernos antigos, agora a IdáticA irá ajudar a 
+encontrar os temas para a aula. Logo depois, sobrará mais tempo para a didática, afinal, o conteúdos é com ela: IdáticA.
+
 ### **Como funciona?**
 
 1. **Digite o tema:** Na barra de pesquisa, escreva qualquer palavra relacionada ao assunto que você quer abordar.

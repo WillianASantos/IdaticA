@@ -45,7 +45,10 @@ A IdáticA é perfeita para professores que querem inovar nas suas aulas e encon
 
 ## **E mais, nas próximas atualizações:**
 ** IA + Didática = Educação de qualidade**
-**Aplicação destina-se a auxiliar professores em sua taréfa diária de preparar aulas. A ferramente IdáticA utilizará a Inteligência Artificial Gemini, do Google, para disponibilizar as melhores informações para os temas de aulas propostos pelos professores. Desse modo, a pesquisa bibliográfica é agilisada e disponibilizada pela ferramenta, deixando para os professores mais tempo para se dedicar a outras atividades, como a didática. A equação IA + Didática significa que, enquanto a IA opera os assuntos acadêmicos, bibliográficos, informações teóricas ou experimentais, os professores, em segundo momento, desenvolvem didáticas específicas levando aos seus educandos as informações disponibilizadas pela IdáticA. A inplementação pode ser testada utilizando as palavras: Política, Estética e Ética. **
+**Aplicação destina-se a auxiliar professores em sua taréfa diária de preparar aulas. 
+A ferramente IdáticA utilizará a Inteligência Artificial Gemini, do Google, para disponibilizar as melhores informações para os temas de aulas propostos pelos professores. Desse modo, a pesquisa bibliográfica é agilisada e disponibilizada pela ferramenta, deixando para os professores mais tempo para se dedicar a outras atividades, como a didática. 
+**A equação IA + Didática significa que, enquanto a IA opera os assuntos acadêmicos, bibliográficos, informações teóricas ou experimentais, os professores, em segundo momento, desenvolvem didáticas específicas levando aos seus educandos as informações disponibilizadas pela IdáticA. 
+**A inplementação pode ser testada utilizando as palavras: Política, Estética e Ética. **
 
 
 

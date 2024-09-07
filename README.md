@@ -1,6 +1,6 @@
 ```markdown
 ## **README.md: IdáticA - Sua Busca Inteligente por Temas de Aula**
-
+** A inplementação pode ser testada utilizando as palavras: Política, Estética e Ética**
 ### **O que é a IdáticA?**
 
 A IdáticA é uma ferramenta simples e intuitiva que te ajuda a encontrar o tema perfeito para sua próxima aula. Basta digitar uma palavra-chave e pronto! A mágica da programação te apresenta uma lista de sugestões personalizadas e interessantes.
